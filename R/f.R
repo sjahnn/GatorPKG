@@ -10,3 +10,6 @@
 ##' @examples
 ##' f(1,2)
 f <- function(x, y) x + y
+
+
+devtools::install_github("sjahnn/GatorPKG")
