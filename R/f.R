@@ -11,5 +11,5 @@
 ##' f(1,2)
 f <- function(x, y) x + y
 
-
+devtools::document()
 devtools::install_github("sjahnn/GatorPKG")
